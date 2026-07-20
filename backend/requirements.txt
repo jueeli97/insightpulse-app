@@ -1,0 +1,28 @@
+# Web
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+
+python-dotenv==1.0.1
+
+# Database
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+alembic==1.13.2
+
+# Data / ML
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.5
+scikit-learn==1.5.2
+xgboost==2.1.1
+scipy==1.14.1
+
+# MLflow (skinny = no heavy server deps)
+mlflow-skinny==2.16.2
+
+# AI
+google-genai>=1.16.0
+
+# Pydantic
+pydantic==2.9.2

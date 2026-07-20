@@ -1,0 +1,25 @@
+# Environment
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+*.sqlite3
+
+# MLflow
+mlruns/
+
+# Uploads
+uploaded_files/
+
+# Misc
+.DS_Store
+*.log
+requirements.txt~
+1.16.0

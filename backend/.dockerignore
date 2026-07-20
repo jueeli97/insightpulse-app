@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+*.sqlite3
+mlruns/
+uploaded_files/
+.DS_Store
+*.log
+requirements.txt~
+1.16.0
